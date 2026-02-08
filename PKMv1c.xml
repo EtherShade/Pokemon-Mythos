@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PKM</name>
+      <longname>Pokemon Mythos</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>P001 Bulbasaur — HP50</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Growth — Search your deck for 1 Basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.
+GC — Vine Whip — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P002 Ivysaur — HP100</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Bulbasaur</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Growth — Search your deck for 1 Basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.
+GC — Seed Bomb — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P003 Venusaur — HP150</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Ivysaur</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Growth — Search your deck for 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+GGC — Solar Beam — 100 — This Pokémon can’t attack next turn.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P004 Charmander — HP40</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Scratch — 10
+RC — Ember — 30
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P005 Charmeleon — HP90</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Charmander</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Smelt — Search your deck for 1 Item card, reveal it, and put it into your hand. Then, shuffle your deck.
+RC — Flamethrower — 50
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P006 Charizard — HP140</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Charmeleon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Smelt — Search your deck for 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.
+RRC — Inferno — 80
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P007 Squirtle — HP60</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Withdraw — Until the start of your next turn, any damage done to this Pokémon is reduced by 20.
+WC — Water Gun — 20
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P008 Wartortle — HP110</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Squirtle</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Withdraw — Until the start of your next turn, any damage done to this Pokémon is reduced by 40.
+WC — Water Pulse — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P009 Blastoise — HP160</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Wartortle</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Withdraw — Until the start of your next turn, any damage done to this Pokémon is reduced by 70.
+WWC — Hydro Pump — 60
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>B001 Basic Grass Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B002 Basic Fire Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B003 Basic Water Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B004 Basic Electric Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B005 Basic Fighting Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B006 Basic Psychic Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B007 Basic Dark Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>B008 Basic Metal Energy</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Energy</type>
+        <maintype>Energy</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>T001 Poké Ball</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Search your deck for 1 Pokémon with HP 70 or less, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>T002 Great Ball</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Search your deck for 1 Pokémon with HP 80 or greater, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>T003 Ultra Ball</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can use this card only if you discard 2 other cards from your hand.
+Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>T005 Potion</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal 40 damage from 1 of your Pokémon.</text>
+    </card>
+    <card>
+      <name>T006 Super Potion</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal 70 damage from 1 of your Pokémon. If you healed any damage in this way, discard 1 Energy from it.</text>
+    </card>
+    <card>
+      <name>T007 Hyper Potion</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal 100 damage from 1 of your Pokémon that has at least 1 Energy attached. If you healed any damage in this way, discard 2 Energy from it.</text>
+    </card>
+    <card>
+      <name>T004 Master Ball</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.</text>
+    </card>
+    <card>
+      <name>T008 Master Potion</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Heal 100 damage from 1 of your Pokémon.</text>
+    </card>
+    <card>
+      <name>T009 Revive</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your opponent puts the top card of their deck into their Prize cards.
+Put this card in the Lost Zone.</text>
+    </card>
+    <card>
+      <name>T010 Master Revive</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your opponent puts the top two cards of their deck into their Prize cards.
+Put this card in the Lost Zone.</text>
+    </card>
+    <card>
+      <name>T013 Boss&apos;s Orders</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Switch in 1 of your opponent’s Benched Pokémon to the Active Spot.</text>
+    </card>
+    <card>
+      <name>T011 Blue</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw three cards.</text>
+    </card>
+    <card>
+      <name>T014 Professor Oak</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard your hand and draw seven cards.</text>
+    </card>
+    <card>
+      <name>T015 Professor Birch</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.</text>
+    </card>
+    <card>
+      <name>P010 Caterpie — HP30</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of Caterpie cards.
+{C} — Horde Call — Search your deck for 1 Basic Pokémon card, reveal it, and put it into your hand. Then, shuffle your deck. If it was a Weedle, draw a card.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P013 Weedle — HP30</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of Weedle cards.
+{C} — Horde Call — Search your deck for 1 Basic Pokémon card, reveal it, and put it into your hand. Then, shuffle your deck. If it was a Caterpie, draw a card.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>T101 Nest of the Swarm</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Caterpie and Weedle don’t take up a space on benches.</text>
+    </card>
+    <card>
+      <name>P011 Metapod — HP100</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Caterpie</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Hardened Cocoon — Any damage dealt to this Pokémon is reduced by an amount equal to ten times  the number of Pokémon on your bench.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>P014 Kakuna — HP100</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Weedle</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Hardened Cocoon — Any damage dealt to this Pokémon is reduced by an amount equal to ten times the number of Pokémon on your bench.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>P012 Butterfree — HP110</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Metapod</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Summon the Swarm — When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for any number of Caterpie and Weedle and put them into your hand. Then, shuffle your deck.
+CCC — Bug Buzz — 60
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P015 Beedrill — HP110</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Kakuna</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>CC — Poison Jab — 40 — Pokémon dealt damage by this attack are now Poisoned.
+CCC — Swarm Stab — 40+ — This attack does 20 more damage for each Caterpie and Weedle on your bench.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>T012 Red</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw four cards.</text>
+    </card>
+    <card>
+      <name>P016 Pidgey — HP50</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Find a Friend — Search your deck for 1 Pokémon card, reveal it, and put it into your hand. Then, shuffle your deck.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P017 Pidgeotto — HP90</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Pidgey</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Find a Friend — Search your deck for 1 Pokémon card, reveal it, and put it into your hand. Then, shuffle your deck.
+CC — Gust — 30
+Retreat — {N}</text>
+    </card>
+    <card>
+      <name>P018 Pidgeot — HP140</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Pidgeotto</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{N} — Find a Friend — Search your deck for 1 Pokémon card, reveal it, and put it into your hand. Then, shuffle your deck.
+{C} — Search — Search your deck for 1 card, reveal it, and put it into your hand. Then, shuffle your deck.
+CC — Gust — 50
+Retreat — {N}</text>
+    </card>
+    <card>
+      <name>P019 Rattata — HP40</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Gnaw — Your opponent discards the top card of their deck.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P020 Raticate — HP110</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Rattata</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Gnaw — Your opponent discards the top five cards of their deck.
+CCC — Erosion Fang — 50+ — This attack does 10 more damage for each card in your opponent’s discard pile.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>T016 Damage Spray</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put 1 damage counter on 1 of your opponent’s Pokémon.</text>
+    </card>
+    <card>
+      <name>T017 Logbook</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards at the end of this turn.</text>
+    </card>
+    <card>
+      <name>P021 Spearow — HP40</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Screech — Your opponent discards a card from their hand unless they have 3 or fewer cards in hand.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P022 Fearow — HP100</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Spearow</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Screech — Your opponent discards cards from their hand until they have 3 cards in their hand.
+CCC — Drill Peck — 70
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P023 Ekans — HP50</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Wrap — Choose one of your opponent’s active Pokémon. If it attacks during your opponent’s next turn, put 2 damage counters on it.
+DC — Poison Sting — 10 — Pokémon dealt damage by this attack are now Poisoned.
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P024 Arbok — HP100</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Ekans</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{C} — Wrap — Choose one of your opponent’s active Pokémon. If it attacks during your opponent’s next turn, put 4 damage counters on it.
+DDCC — Gunk Shot — 80
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P025 Pichu — HP30</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{L} — Nuzzle — 10
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P026 Pikachu — HP70</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Pichu</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>LC — Thunder Shock — 40
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P027 Raichu — HP160</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Pikachu</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>LLC — Thunderbolt — 70
+Retreat — {C}</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
