@@ -185,8 +185,7 @@ Retreat — CC</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{C} — Withdraw — Until the start of your next turn, any damage done to this Pokémon is reduced by 70.
-WWC — Hydro Pump — 60
+      <text>WWC — Shell Smash — 50 — Until the start of your next turn, any damage done to this Pokémon is reduced by 50.
 Retreat — CC</text>
     </card>
     <card>
@@ -841,7 +840,7 @@ Retreat — {C}</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{C} — Gnaw — Your opponent discards the top five cards of their deck.
+      <text>{C} — Gnaw — Your opponent discards the top four cards of their deck.
 CCC — Erosion Fang — 50+ — This attack does 10 more damage for each card in your opponent’s discard pile.
 Retreat — {C}</text>
     </card>
@@ -942,7 +941,7 @@ DC — Poison Sting — 10 — Pokémon dealt damage by this attack are now Pois
 Retreat — {C}</text>
     </card>
     <card>
-      <name>P024 Arbok — HP100</name>
+      <name>P024 Arbok — HP110</name>
       <set rarity="common">PKM</set>
       <prop>
         <colors></colors>
@@ -1017,6 +1016,184 @@ Retreat — {C}</text>
       <tablerow>1</tablerow>
       <text>LLC — Thunderbolt — 70
 Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P028 Sandshrew — HP50</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Sand Veil — If there is a Sandstorm stadium in play, any damage done to this Pokémon is reduced by 20.
+{C} — Defense Curl — Until the start of your next turn, any damage done to this Pokémon is reduced by 20.
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>T102 Sandstorm</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Trainer</type>
+        <maintype>Trainer</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>During Pokémon Checkup, put 1 damage counter on each non-{F} Active Pokémon.</text>
+    </card>
+    <card>
+      <name>P029 Sandslash — HP130</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Sandshrew</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Sand Veil — If there is a Sandstorm stadium in play, any damage done to this Pokémon is reduced by 40.
+FFC — Rollout — 50+ — This attack deals 50 more damage if this Pokémon used Rollout last turn.
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>P033 Nidoran(M) — HP40</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, attacks used by this Pokémon do 20 more damage to your opponent’s Active Pokémon.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P030 Nidoran(F) — HP40</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, any damage done to this Pokémon is reduced by 20.
+CC — Tackle — 20
+Retreat — {C}</text>
+    </card>
+    <card>
+      <name>P031 Nidorina — HP90</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Nidoran(F)</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, any damage done to this Pokémon is reduced by 30.
+DC — Horn Attack — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P034 Nidorino — HP90</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Nidoran(M)</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, attacks used by this Pokémon do 30 more damage to your opponent’s Active Pokémon.
+DC — Horn Attack — 40
+Retreat — CC</text>
+    </card>
+    <card>
+      <name>P032 Nidoqueen — HP160</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Nidorina</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, any damage done to this Pokémon is reduced by 40.
+DDC — Poison Horn — 70
+Retreat — CCC</text>
+    </card>
+    <card>
+      <name>P035 Nidoking — HP160</name>
+      <set rarity="common">PKM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Pokémon - Evolves from Nidorino</type>
+        <maintype>Pokémon</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ability — Brood Kinship — If this Pokémon and a Nidoran(F) are your Active Pokémon, attacks used by this Pokémon do 40 more damage to your opponent’s Active Pokémon.
+DDC — Poison Horn — 70
+Retreat — CCC</text>
     </card>
 
     <!-->Tokens</-->
